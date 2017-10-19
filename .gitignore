@@ -1,0 +1,6 @@
+data/
+data_min/
+database/
+node_modules/
+
+*.log
